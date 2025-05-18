@@ -4,7 +4,10 @@ A conversational AI chatbot for BBQ Nation restaurant chain, handling table book
 
 # Prototype
 
-https://github.com/user-attachments/assets/0d49c46f-a9e7-43ca-bbc3-20a0d39462af
+
+https://github.com/user-attachments/assets/14ee19ad-328f-4f10-9036-7260b5298c00
+
+
 
 
 ## Features
