@@ -2,6 +2,11 @@
 
 A conversational AI chatbot for BBQ Nation restaurant chain, handling table bookings, menu queries, and location information.
 
+# Prototype
+
+https://github.com/user-attachments/assets/0d49c46f-a9e7-43ca-bbc3-20a0d39462af
+
+
 ## Features
 
 - **Table Booking System**
