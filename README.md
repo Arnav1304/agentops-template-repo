@@ -35,21 +35,8 @@ bbq-nation-chatbot/
 ├── assets/             # Prompts and diagrams
 └── scripts/            # Utility scripts
 ```
-stateDiagram-v2
-    [*] --> Start
-    Start --> CollectCity: "User selects action"
-    CollectCity --> CollectLocation
-    CollectLocation --> MainOptions
-    
-    state MainOptions {
-        [*] --> NewBooking
-        [*] --> MenuQuery
-        [*] --> LocationInfo
-    }
-    
-    NewBooking --> ConfirmBooking
-    MenuQuery --> DisplayItems
-    LocationInfo --> ShowFacilities
+![deepseek_mermaid_20250518_689e58](https://github.com/user-attachments/assets/39d4869b-68ef-4d37-bcfc-2351dfe678b2)
+
 
 ## Setup
 
