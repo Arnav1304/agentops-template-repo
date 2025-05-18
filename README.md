@@ -41,36 +41,7 @@ bbq-nation-chatbot/
 
 ## User Flow
 ![deepseek_mermaid_20250518_45e83c](https://github.com/user-attachments/assets/24077fd3-2ec9-4009-862c-01ed748e4b74)
-
-## Sample Outputs
-** Booking Flow **
-User: Book a table in Bengaluru  
-Bot: Select location:  
-1. Indiranagar  
-2. Koramangala  
-3. Whitefield  
-
-User: 1  
-Bot: Choose date (DD-MM-YYYY):  
-
-User: 15-08-2024  
-Bot: Select slot:  
-1. Lunch (12PM-4PM)  
-2. Dinner (6:30PM-11PM)  
-
-** Menu Query **
-User: What veg starters do you have?  
-Bot: Veg Starters:  
-- Paneer Tikka  
-- Mushroom Skewers  
-- Cajun Potatoes  
-Source: Menu_List_2023.pdf  
-
-** Location Info **
-User: Does Indiranagar have a bar?  
-Bot: Yes, Indiranagar outlet has a bar and baby chairs.  
-Timings: 12PM-11PM  
-Address: 100 Feet Road, Indiranagar  
+ 
 
 ## Setup
 
@@ -133,27 +104,4 @@ Run integration tests:
 pytest tests/integration
 ```
 
-## Development
 
-1. Follow PEP 8 style guide
-2. Write tests for new features
-3. Update documentation
-4. Use meaningful commit messages
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-For support or queries, please contact:
-- Email: support@bbqnation.com
-- Phone: 1800-XXX-XXXX 
