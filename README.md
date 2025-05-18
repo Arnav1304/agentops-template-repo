@@ -35,7 +35,12 @@ bbq-nation-chatbot/
 ├── assets/             # Prompts and diagrams
 └── scripts/            # Utility scripts
 ```
+## State Machine Diagram
+
 ![deepseek_mermaid_20250518_689e58](https://github.com/user-attachments/assets/39d4869b-68ef-4d37-bcfc-2351dfe678b2)
+
+## User Flow
+![deepseek_mermaid_20250518_45e83c](https://github.com/user-attachments/assets/24077fd3-2ec9-4009-862c-01ed748e4b74)
 
 
 ## Setup
