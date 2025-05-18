@@ -1,0 +1,13 @@
+Great! Your reservation has been confirmed.
+
+Reservation details:
+Location: {{ context.location }}, {{ context.city }}
+Date: {{ context.date }}
+Time: {{ context.time_slot }}
+Number of guests: {{ context.guests }}
+Reference number: {{ "BBQ" + context.phone[-6:] }}
+
+We've sent a confirmation SMS to {{ context.phone }}. Please save your reference number for future modifications.
+
+1. Return to main menu
+2. End conversation
